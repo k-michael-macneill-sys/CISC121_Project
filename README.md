@@ -75,4 +75,5 @@ In all cases, the output matched Python’s built-in `sorted()` function.
 K. Michael MacNeill  
 CISC-121 - Section 001  
 Fall 2025
+
 Developed using Python, Gradio, and ChatGPT (up to level-4)
