@@ -5,7 +5,7 @@ Interactive Python + Gradio app displaying a Merge Sort algorithm step-by-step f
 This project is an interactive Python application that demonstrates how the Merge Sort algorithm works. The user enters a list of integers, and the program shows the splitting and merging steps until the list is fully sorted. The purpose of the project is to make the divide-and-conquer approach easier to understand by visualizing it.
 
 ## **Demo video/gif/screenshot of test**
-(Insert demo GIF or screenshot here)
+<video src="demo.mp4" width="600" controls></video>
 
 ## **Why I Chose Merge Sort**
 I chose Merge Sort because the divide and conquer system discussed in class, is very fast at sorting lists which is very interesting to me. It also has a consistent time complexity of O(n log n), unlike Bubble Sort or Insertion Sort which can be slower in the worst case. Since Merge Sort produces middle steps automatically, it works well for all list sizes unlike bubble sort where as the list grows the time complexity of O(n^2) gets exponentially less efficient. I could have chosen Binary search or Linear Search to give myself an 'easier' project to code and breakdown however it's much more interesting diving deep into something I'll actually be interested in learning about such as Merge Sort which is extremely efficient.
