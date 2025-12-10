@@ -1,5 +1,5 @@
 # **CISC121_Project**
-Interactive Python + Gradio app displaying a Merge Sort algorithm step-by-step for CISC-121
+Interactive Python + Gradio app displaying a Merge Sort algorithm step-by-step for CISC-121 Project
 
 # **Merge Sort Visualizer**
 This project is an interactive Python application that demonstrates how the Merge Sort algorithm works. The user enters a list of integers, and the program shows the splitting and merging steps until the list is fully sorted. The purpose of the project is to make the divide-and-conquer approach easier to understand by visualizing it.
@@ -42,7 +42,8 @@ Input (list of integers), split recursively, merge sorted halves, output final s
 
 #### 1. Clone the repository:
 
-git-clone: 
+[git-clone: https://huggingface.co/spaces/<username>/<space-name>](https://huggingface.co/spaces/compscimichael/CISC121_Project)
+
 
 #### 2. Install required libraries:
 
